@@ -1,0 +1,22 @@
+{
+  "name": "Temperature",
+  "base": "PersistedModel",
+  "properties": {
+    "timestamp": {
+      "type": "date",
+      "required": true
+    },
+    "temp": {
+      "type": "number",
+      "required": true
+    },
+    "humid": {
+      "type": "number",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": []
+}
