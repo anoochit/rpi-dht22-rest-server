@@ -1,6 +1,21 @@
+<<<<<<< HEAD
 .editorconfig
 .jshintignore
 .jshintrc
 .npmignore
 node_modules/
 node_modules/*
+=======
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> f061a14b4718006e2794bfd41cba0709ed60d7f2
